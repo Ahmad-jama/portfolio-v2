@@ -52,7 +52,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ahmad jama** - **[Linkedin](https://www.linkedin.com/in/ahmad-jama)**, **[Watsapp](https://wa.me/+966572284393)**,**[Portfolio](https::/ahmad-portfolio-v2.netlify.app)**, **[Github](https://github.com/Ahmad-jama)**
+- **Ahmad jama** - **[Linkedin](https://www.linkedin.com/in/ahmad-jama)**, **[Watsapp](https://wa.me/+966572284393)**,**[Portfolio](https://ahmad-portfolio-v2.netlify.app)**, **[Github](https://github.com/Ahmad-jama)**
 
 <br>
 
