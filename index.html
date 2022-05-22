@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Ahmad jama</title>
+    <meta name="description" content="Ahmad jama personal site" />
+
+    <link rel="stylesheet" href="css/style.css" />
+
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap"
+      rel="stylesheet"
+    />
+
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init("i2PaorMeDihWjYl50");
+      })();
+    </script>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="navbar-container container">
+        <input type="checkbox" name="" id="" />
+        <div class="hamburger-lines">
+          <span class="line line1"></span>
+          <span class="line line2"></span>
+          <span class="line line3"></span>
+        </div>
+        <ul class="menu-items">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <h1 class="logo">Ahmad jama</h1>
+      </div>
+    </nav>
+
+    <!-- sstart hero -->
+    <section class="home-hero" id="home">
+      <div class="main-container">
+        <div class="content">
+          <div>
+            <img
+                src="assets/image.png"
+                alt="image"
+                loading="lazy"
+            />
+          </div>
+          <div>
+            <h1>Hey, i am Ahmad Jama</h1>
+            <p>
+          
+              i build  beutiful fast easy to navigate  websites    useing   my exprince in React and javascript
+            </p>
+
+            <button><a href="#contact">Contact</a></button>
+            <button> Resume</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- finsh hero -->
+
+    <!-- start about -->
+
+    <section id="about" class="about">
+      <div class="main-container">
+        <h1 class="section_title">About me</h1>
+        <div class="about__content">
+          <div class="about__content-main">
+            <h3 class="about__content-title">Get to know me!</h3>
+            <div class="about__content-details">
+              <p class="about__content-details-para">
+                Hey! i am
+                <strong>Ahmad Jama</strong>
+                and I'm a <strong> Frontend Web Developer </strong> specializing
+                in React located in Saudi. I'm 20 years old.
+
+                <p class="about__content-details-para">
+
+                I use my
+                <strong> skills </strong>
+                in HTML, CSS and JavaScript as well as other front-end
+                technologies to build accessible and responsive web applications
+                from scratch with best practives.
+                </p>
+              </p>
+              <p class="about__content-details-para">
+                I have a
+                <strong>hunger </strong>
+                for learning new things and am always trying to stretch my
+                abilities.
+                <strong>contact</strong> me here.
+              </p>
+            </div>
+            <a href="#contact" class="btn btn--med btn--theme dynamicBgClr"
+              >Contact</a
+            >
+          </div>
+
+          <div class="about__content-skills">
+            <h3 class="about__content-title">My Skills</h3>
+            <div class="skills">
+              <div class="skills__skill">HTML</div>
+              <div class="skills__skill">CSS</div>
+              <div class="skills__skill">JavaScript</div>
+              <div class="skills__skill">bootstrap</div>
+              <div class="skills__skill">React</div>
+              <div class="skills__skill">Redux</div>
+              <div class="skills__skill">Firebase</div>
+              <div class="skills__skill">GIT & Github</div>
+              <div class="skills__skill">Json</div>
+              <div class="skills__skill">Ajax</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- finisth about me -->
+    <!-- start projects -->
+    <section id="projects" class="projects sec-pad">
+      <div class="main-container">
+        <h1 class="section_title">Projects</h1>
+        <div class="projects__content"></div>
+      </div>
+    </section>
+
+    <!-- finisth prouects -->
+
+    <!-- start contact form -->
+
+    <section id="contact" class="contact sec-pad dynamicBg">
+      <div class="main-container">
+        <h1 class="section_title">Get In Touch!</h1>
+        <form class="my-form">
+          <ul class="info-contact">
+
+            <li><span>email:</span> m.jama221@gmial.com</li>
+            <li><span>phone:</span> +966572284393</li>
+            <li><span>Github:</span> <a  href="https://github.com/Ahmad-jama" target="_blank"> my github account</a></li>
+            <li><span>Linkedin:</span> <a href=" https://www.linkedin.com/in/ahmad-jama/" target="_blank"> my Linkedin profile</a></li>
+            <li><span>Whatsapp:</span> <a href=" https://wa.me/+966572284393" target="_blank"> Chat on whatsapp</a></li>
+           </ul>
+          <ul>
+            <li>
+              <div class="grid grid-2">
+                <input
+                  type="text"
+                  name="from_name"
+                  id="from_name"
+                  placeholder="Name"
+                  required
+                />
+              </div>
+            </li>
+            <li>
+              <div class="grid grid-2">
+                <input type="email" placeholder="Email" required />
+              </div>
+            </li>
+            <li>
+              <textarea
+                name="message"
+                id="message"
+                placeholder="Message"
+              ></textarea>
+            </li>
+
+            <li>
+              <div class="grid grid-3">
+                <button class="btn-grid" type="submit">
+                  <span class="back">
+                    <img
+                      src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/162656/email-icon.svg"
+                      alt="thisis image"
+                      loading="lazy"
+
+                    />
+                  </span>
+                  <span class="front">SUBMIT</span>
+                </button>
+              </div>
+            </li>
+          </ul>
+        </form>
+      </div>
+    </section>
+
+    <!-- end contact form -->
+    <p
+      style="     
+        background-color: black;
+        text-align: center;
+        padding: 1rem;
+        font-size: 1.1rem;
+      "
+    >
+      Made With Love By <span>Ahmad Jama</span> Junior Developer
+    </p>
+
+    <div class="modal">
+      <span>close</span>
+<p>
+  
+</p>    </div>
+
+    <script src="./index.js"></script>
+  </body>
+</html>
