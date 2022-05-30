@@ -4,11 +4,11 @@ const projectsData = [
   {
     name: "E-Commerce",
     description: [
-      "Built a full-stack web app to allow users to buy the products from the site",
+      "Built a full-stack web app to allow users to buy products from the site",
       "Used React to allow users to instantaneously update the cart interface without reloading.",
-      "build beautiful and mind-blowing user interfaces and high-performance component ",
+      "build beautiful and mind-blowing user interfaces and high-performance components",
       "used Redux-Toolkit to store the states and save them in local storage",
-      "used firebase to fetch products and users can see product details",
+      "used firebase to fetch products and display the product details to the user",
     ],
     techStack: [
       "Html",
@@ -34,8 +34,8 @@ const projectsData = [
     description: [
       "used Styled-components to build custom and reusable component",
       "  use Firebase-storage to upload the images",
-      " upload the Article to firebase-firestore and display the content without reloading",
-      "users can write the article in markdown format and the site will convert it to jsx",
+      " upload Article to firebase-firestore and display it without reloading",
+      "users can write articles in markdown format and the site will convert it to jsx",
     ],
     techStack: [
       "Html",
@@ -60,10 +60,10 @@ const projectsData = [
   {
     name: "Netflex Clone",
     description: [
-      " Retrieve and display movie from TMDB api ",
+      " Retrieve and display movie from TMDB API ",
       "Display in columns by genre ",
       " The background of the banner changes when refresh",
-      "  When you click on a movie it will show detail about movie",
+      "  When you click on a movie card, it will show details about that movie.",
     ],
     techStack: [
       "Html",
