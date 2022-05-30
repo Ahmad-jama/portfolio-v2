@@ -2,6 +2,7 @@
 
 ## [Demo Link](https://ahmad-portfolio-v2.netlify.app) 🔗
 
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ahmad-jama/portfolio-v2/main/assets/homepage.png" alt="home page" width="100%" />
   <br>
@@ -49,7 +50,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ahmad jama** - **[Linkedin](https://www.linkedin.com/in/ahmad-jama)**, **[Watsapp](https://wa.me/+966572284393)**,**[Portfolio](https://ahmad-portfolio-v2.netlify.app)**, **[Github](https://github.com/Ahmad-jama)**
+- **Ahmad jama** - **[Linkedin](https://www.linkedin.com/in/ahmad-jama)**, **[Whatsapp](https://wa.me/+966572284393)**,**[Portfolio](https://ahmad-portfolio-v2.netlify.app)**, **[Github](https://github.com/Ahmad-jama)**
 
 <br>
 
