@@ -1,8 +1,7 @@
-# Dopefolio 🔥
+# my portfolio site 🔥
 
-## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
-## [Demo Link](https://ahmad-jama-v2.netlify.app) 🔗
+## [Demo Link](https://ahmad-portfolio-v2.netlify.app) 🔗
 
 <div align="center">
   <img src="assts/E-all" alt="home page" width="100%" />
@@ -33,15 +32,7 @@
 - **JavaScript** 🚀
 - **Email.js** 🚀
 
----
 
-<br/>
-
-## Support 😇
-
-If you find this portfolio good then please **support** me by donating some **Money** on the **Buy Me a Coffee** link below so I can continue chasing my dream of building useful **Open Source projects** that will help the developer community and the general audience and will allow me to change my life as well 😇
-
-### **[Buy Me A Coffee](https://www.buymeacoffee.com/rammcodes)** ❤️
 
 <br>
 
@@ -61,7 +52,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Author 👨‍💻
 
-- **Ahmad jama** - **[Linkedin](https://www.linkedin.com/in/ahmad-jama)**, **[Watsapp](https://wa.me/+966572284393)**, **[Github](https://github.com/Ahmad-jama)**, **[Portfolio](https:/ahmad-jama-v2.netlify.app)**
+- **Ahmad jama** - **[Linkedin](https://www.linkedin.com/in/ahmad-jama)**, **[Watsapp](https://wa.me/+966572284393)**,**[Portfolio](https://ahmad-portfolio-v2.netlify.app)**, **[Github](https://github.com/Ahmad-jama)**
 
 <br>
 
