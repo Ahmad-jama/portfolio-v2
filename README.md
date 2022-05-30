@@ -1,10 +1,9 @@
 # my portfolio site 🔥
 
-
 ## [Demo Link](https://ahmad-portfolio-v2.netlify.app) 🔗
 
 <div align="center">
-  <img src="assts/E-all" alt="home page" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ahmad-jama/portfolio-v2/main/assets/homepage.png" alt="home page" width="100%" />
   <br>
 </div>
 
@@ -31,8 +30,6 @@
 - **CSS** 🚀
 - **JavaScript** 🚀
 - **Email.js** 🚀
-
-
 
 <br>
 
